@@ -1,0 +1,17 @@
+Your Conversation Log:
+You: I am amol
+AI: Hello, Amol! How can I assist you today?
+
+You: good morning
+AI: Good morning! I hope you have a great day ahead. Is there anything you'd like to discuss or need help with today?
+
+You: tell me  the joke
+AI: Sure, here's a joke for you:
+
+What do you call fake spaghetti?
+
+An impasta! 
+
+I hope that brought a smile to your face! If you'd like to hear another one, just let me know.
+
+End of Conversation
